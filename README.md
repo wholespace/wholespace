@@ -1,4 +1,4 @@
-<a align="center" href="https://app.daily.dev/wholespace"><img src="https://api.daily.dev/devcards/606f5a8d3296425bb211a0be9d0abf63.png?r=bew" width="400" alt="Naruhito Takei's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/wholespace"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="600" alt="Naruhito Takei's Dev Card"/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F71117&multiline=true&lines=Hello+I'm+Naruhito+Takei)](https://git.io/typing-svg)
     <h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
