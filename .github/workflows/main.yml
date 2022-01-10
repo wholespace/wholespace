@@ -15,4 +15,4 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: https://api.daily.dev/devcards/606f5a8d3296425bb211a0be9d0abf63.png?r=bew
+          devcard_id: 606f5a8d3296425bb211a0be9d0abf63
