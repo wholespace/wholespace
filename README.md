@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/wholespace"><img src="https://api.daily.dev/devcards/606f5a8d3296425bb211a0be9d0abf63.png?r=bew" width="400" alt="Naruhito Takei's Dev Card"/></a>
 ![header-background](https://user-images.githubusercontent.com/88071912/137026041-a4f06ed7-fcc4-45d7-bde5-b2ca9c2904b2.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+RabbitSheriff.;I+AM+A+SEASONED+WEB+DEVELOPER.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     <h2 align="center">
