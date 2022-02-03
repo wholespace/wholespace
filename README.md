@@ -11,6 +11,7 @@
  <br><br></h1>
 <p align="center">
  <a href="https://app.daily.dev/wholespace"><img src="https://github.com/wholespace/wholespace/blob/main/devcard.svg" width="400" alt="Naruhito Takei's Dev Card"/></a>
+</p>
 </br>
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
