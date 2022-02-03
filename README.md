@@ -1,4 +1,7 @@
-<a align="center" style="text-align: center" href="https://app.daily.dev/wholespace"><img src="https://github.com/wholespace/wholespace/blob/main/devcard.svg" width="400" alt="Naruhito Takei's Dev Card"/></a>
+<h1 align="center">Top Full-Stack 🚀talent in Blockchain & Web<br><br></h1>
+<p align="center">
+ <a href="https://app.daily.dev/wholespace"><img src="https://github.com/wholespace/wholespace/blob/main/devcard.svg" width="400" alt="Naruhito Takei's Dev Card"/></a>
+</br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F71117&multiline=true&lines=Hello+I'm+Naruhito+Takei)](https://git.io/typing-svg)
     <h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
