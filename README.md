@@ -1,9 +1,5 @@
-<h1 align="center">Top Full-Stack 🚀talent in Blockchain & Web<br><br></h1>
-<p align="center">
- <a href="https://app.daily.dev/wholespace"><img src="https://github.com/wholespace/wholespace/blob/main/devcard.svg" width="400" alt="Naruhito Takei's Dev Card"/></a>
-</br>
-    <h2 align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+<h1 align="center">    
+ <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
@@ -12,8 +8,10 @@
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    </h2>
-    <br>
+ <br><br></h1>
+<p align="center">
+ <a href="https://app.daily.dev/wholespace"><img src="https://github.com/wholespace/wholespace/blob/main/devcard.svg" width="400" alt="Naruhito Takei's Dev Card"/></a>
+</br>
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
 🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
