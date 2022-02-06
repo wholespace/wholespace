@@ -243,7 +243,7 @@ Alone we can do so little; together we can do so much.
   <br>
     <img src="https://github-profile-trophy.vercel.app/?username=webpointdev&theme=monokai"/>
   </div>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wholespace&bg_color=d1fcff&color=d60000&line=0f96c2&point=41413e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wholespace&bg_color=d1fcff&color=d60000&line=0f96c2&point=41413e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br>
 </p>
 <hr>
