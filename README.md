@@ -15,7 +15,7 @@
 </br>
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
-🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
+ The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
 Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow.
 <br>
 <h4 align="center">🔥 My skills 🔥</h4>
