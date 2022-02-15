@@ -21,7 +21,7 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <h4 align="center">🔥 My skills 🔥</h4>
 <hr>
 <br>
-<p>💬I consider myself a person who follows modern web development practices and new technologies.</p>
+<p>I consider myself a person who follows modern web development practices and new technologies.</p>
 <p>So, this list will be uniformly updated as I never stop learning.</p>
 <br>
 
