@@ -6,6 +6,7 @@ Hi, I am a Full Stack Blockchain Developer. I own a strong hold on different ski
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=wholespace&show_icons=true&count_private=true&theme=algolia"/>
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wholespace&layout=compact&theme=algolia&count_private=true" /> <br/>
-<img height="20px" />
+<img height="100px" />
+<br/>
 <img src="https://activity-graph.herokuapp.com/graph?username=wholespace&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
